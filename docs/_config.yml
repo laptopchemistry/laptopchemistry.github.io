@@ -22,7 +22,7 @@ title: "Laptop Chemistry"
 email: laptopchemistry@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog exploring computational chemistry and cheminformatics topics with a laptop.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/docs/" # the subpath of your site, e.g. /blog
 url: "laptopchemistry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  laptopchemistry
 
