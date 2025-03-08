@@ -1,8 +1,9 @@
+theme: jekyll-theme-minimal
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
 
 collections:
   authors:

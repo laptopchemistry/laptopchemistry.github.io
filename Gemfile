@@ -6,7 +6,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 # Add Jekyll
-gem "jekyll"
+gem "github-pages"
 
 # Add useful plugins
 group :jekyll_plugins do
